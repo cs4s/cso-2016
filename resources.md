@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Resources
-permalink: /resources
 ---
 
 # Resources
@@ -10,13 +9,16 @@ If you are interested in finding out more about Computer Science and the Digital
 
 ## Websites
 
+- [BOSTES Coding and Computational Thinking Across the Curriculum Guide](http://k6.boardofstudies.nsw.edu.au/wps/portal/go/science-and-technology/statement-on-coding)
+- [Digital Technologies Hub](https://www.digitaltechnologieshub.edu.au/)
 - [Computer Science Field Guide](http://csfieldguide.org.nz/)
 - [CS4FN - Computer Science 4 Fun](http://www.cs4fn.org/)
 - [Google's CS Education Resources](https://www.google.com/edu/cs/index.html)
 
 ## Online Courses
 
-- [CSER Digital Technologies MOOCs](https://csdigitaltech.appspot.com/course)
+- [CSER Adelaide Digital Technologies MOOCs](https://csermoocs.adelaide.edu.au/)
+- [Harvard's Creative Computing Curriculum](http://scratched.gse.harvard.edu/guide/)
 - [Google's Exploring Computational Thinking Course](https://computationalthinkingcourse.withgoogle.com/course)
 
 ## Lesson Plans
