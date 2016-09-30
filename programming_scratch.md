@@ -7,10 +7,10 @@ title: Visual Programming
 
 ## About
 
-In this session we will do some Visual Programming with Scratch. 
+In this session we will learn about Visual Programming with Scratch. 
 Visual Programming is a way of writing code graphically, rather than with text. 
 Scratch is a Visual Programming language that can be used to create interactive stories, animations and games.
-We recommend you start with the *Introduction to Scratch* tutorial before completing the *Making Cookie Bird* tutorial, both linked below.
+We recommend you start with the *Introduction to Scratch* tutorial before completing the *Making Cookie Bird* tutorial, both of which are linked below.
 
 ## Files
 
