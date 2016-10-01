@@ -12,11 +12,11 @@ Visual Programming is a way of writing code graphically, rather than with text.
 Scratch is a Visual Programming language that can be used to create interactive stories, animations and games.
 We recommend you start with the *Introduction to Scratch* tutorial before completing the *Making Cookie Bird* tutorial, both of which are linked below.
 
-The form for the Scratch Teacher Account demonstration is available [here](https://goo.gl/forms/QfuEbPMs8Tr1S31L2).
+The form for the Scratch Teacher Account demonstration is available [here](https://goo.gl/forms/QfuEbPMs8Tr1S31L2){:target="_blank"}.
 
 ## Files
 
-- [Visual Programming with Scratch Presentation (PDF presentation)](visual_programming_presentation.pdf)
+- [Visual Programming with Scratch Presentation (PDF presentation)](visual_programming_presentation.pdf){:target="_blank"}
 - [Introduction to Scratch Tutorial (Word document)](introduction_to_scratch.docx)
 - [Making Cookie Bird Tutorial (Word document)](making_cookie_bird.docx)
 - [Cookie Bird Resources (ZIP file)](cookie_bird_resources.zip)
