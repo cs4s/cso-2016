@@ -44,7 +44,7 @@
 
 - Go to the Scratch website: www.scratch.mit.edu
 - Work through the Introduction to Scratch handout
-- If you have already used finished the Introduction to Scratch handout, I have another tutorial you can work through
+- If you have already finished the Introduction to Scratch handout, I have another tutorial you can work through
 
 ---
 
